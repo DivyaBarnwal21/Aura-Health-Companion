@@ -119,8 +119,20 @@ Our custom algorithm calculates risk based on:
 
 ## 📸 Screenshots
 
-![Aura Home Page](https://raw.githubusercontent.com/DivyaBarnwal21/Aura-Health-Companion/master/.github/screenshots/home.png)
-*(Note: Replace with actual hosted paths if available)*
+### 🏠 Home Page
+![Aura Home Page](screenshots/home.png)
+
+### 🎭 Mood Journal & Analysis
+![Mood Journal](screenshots/journal.png)
+
+### 🤖 AI Companion Chat
+![AI Chatbot](screenshots/chatbot.png)
+
+### 📊 Personal Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🌿 Wellness Tools
+![Wellness Tools](screenshots/wellness.png)
 
 ---
 
