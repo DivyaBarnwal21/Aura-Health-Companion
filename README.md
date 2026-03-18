@@ -134,6 +134,9 @@ Our custom algorithm calculates risk based on:
 ### 🌿 Wellness Tools
 ![Wellness Tools](screenshots/wellness.png)
 
+### 📊 ML Model Accuracy Comparison
+![ML Model Accuracy](screenshots/ML_Model_Accuracy_Comparison.jpeg)
+
 ---
 
 ## 🤝 Contributing
